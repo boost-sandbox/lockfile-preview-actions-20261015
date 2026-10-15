@@ -1,0 +1,6 @@
+name: Sibling
+description: Repository bound sibling
+runs:
+  using: composite
+  steps:
+    - uses: $/helper

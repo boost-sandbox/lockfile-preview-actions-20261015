@@ -1,0 +1,7 @@
+name: Marker helper
+description: Harmless version marker
+runs:
+  using: composite
+  steps:
+    - shell: bash
+      run: echo RESEARCH_HELPER_V1

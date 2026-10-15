@@ -1,0 +1,6 @@
+name: Parent
+description: Nested mutable reference
+runs:
+  using: composite
+  steps:
+    - uses: boost-sandbox/lockfile-preview-actions-20261015/helper@moving
