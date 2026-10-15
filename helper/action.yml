@@ -4,4 +4,4 @@ runs:
   using: composite
   steps:
     - shell: bash
-      run: echo RESEARCH_HELPER_V1
+      run: echo RESEARCH_HELPER_V2
