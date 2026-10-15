@@ -1,0 +1,6 @@
+name: Extra
+description: Separate subaction with extra dependency
+runs:
+  using: composite
+  steps:
+    - uses: boost-sandbox/lockfile-preview-actions-20261015/helper@v1.0.0
